@@ -36,7 +36,7 @@
             //     console.log("new : ",newValue);
             // }
             // )
-
+            //halate sevom
             watch(()=> _.cloneDeep(state.options) ,
             (newValue,oldValue)=>{
                 console.log("old : ",oldValue);
